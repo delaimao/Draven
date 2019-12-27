@@ -1,0 +1,22 @@
+@import url(../css/bootstrap.css);
+@import url(../css/bootstrap-theme.css);
+body {margin-left: 8px }
+
+.status_0{
+	padding: 6px 12px;
+	background-color: #d9534f;
+	color: #fff;
+	border-radius: 4px;
+}
+.status_1{
+	padding: 6px 12px;
+	background-color: #5cb85c;
+	color: #fff;
+	border-radius: 4px;
+}
+.text-trim{  
+	text-overflow:ellipsis;  
+	white-space:nowrap;  
+	overflow:hidden;  
+	width:200px;  
+}
